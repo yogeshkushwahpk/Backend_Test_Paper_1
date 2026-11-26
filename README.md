@@ -1,4 +1,4 @@
-# ⚡ Backend Development Coding Test
+#  Backend Development Coding Test At Dice Tilak Nagar 
 
 ## CRUD & REST APIs — Task Management System
 
@@ -6,13 +6,13 @@
 
 > **Level:** Beginner – Intermediate &nbsp;|&nbsp; **Duration:** 120 Minutes &nbsp;|&nbsp; **Total Marks:** 100
 
-| 🛠 Technology | 🗄 Database | 🧪 API Testing |
+| Technology |  Database |  API Testing |
 |:---|:---|:---|
 | Node.js, Express.js, JavaScript | MongoDB (Mongoose) | Postman |
 
 ---
 
-## 📋 Problem Statement
+## Problem Statement
 
 Build a **Task Management REST API** using **Node.js**, **Express.js**, and **MongoDB**.
 
@@ -33,7 +33,7 @@ The API must allow users to **create, read, update, delete, filter, search, sort
 
 ---
 
-## 📡 API Endpoints
+##  API Endpoints
 
 > Implement **all** of the following endpoints to earn full marks.
 
@@ -137,7 +137,7 @@ DELETE /api/tasks/:id
 
 ---
 
-## 🔍 Filtering APIs
+##  Filtering APIs
 
 ---
 
@@ -186,7 +186,7 @@ GET /api/tasks?search=node
 
 ---
 
-## ↕️ Sorting & Pagination
+##  Sorting & Pagination
 
 ---
 
@@ -251,7 +251,7 @@ GET /api/tasks?status=pending&priority=high&search=node&sortBy=createdAt&order=d
 
 ---
 
-## 📈 Task Statistics API &nbsp; `[10 Marks]`
+##  Task Statistics API &nbsp; `[10 Marks]`
 
 ```
 GET /api/tasks/stats
@@ -276,7 +276,7 @@ GET /api/tasks/stats
 
 ---
 
-## 📊 Marks Distribution
+##  Marks Distribution
 
 | # | Task | Marks |
 |:---:|:---|:---:|
@@ -299,7 +299,7 @@ GET /api/tasks/stats
 
 ---
 
-## 🗂 Required Project Structure
+##  Required Project Structure
 
 ```
 backend-test/
@@ -327,7 +327,7 @@ backend-test/
 
 ---
 
-## 📌 Important Instructions
+##  Important Instructions
 
 > Follow these rules — marks will be deducted for violations.
 
@@ -345,7 +345,7 @@ backend-test/
 
 ---
 
-## 🕐 2-Hour Test Schedule
+##  2-Hour Test Schedule
 
 | Time | Activity |
 |:---|:---|
@@ -358,7 +358,7 @@ backend-test/
 
 ---
 
-## 📤 Final Submission Checklist
+##  Final Submission Checklist
 
 Before submitting, make sure you have:
 
